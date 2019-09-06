@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208898208003",
+    "firebase_url": "https://tracks-base-test.firebaseio.com",
+    "project_id": "tracks-base-test",
+    "storage_bucket": "tracks-base-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208898208003:android:fd8c908a31ebbebc",
+        "android_client_info": {
+          "package_name": "com.example.tracksbasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208898208003-52ssssvo99vf4uj6fe53ctg5d4nhedke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tracksbasetest",
+            "certificate_hash": "d928d1cff955950a104163b7aec7793aad42ce10"
+          }
+        },
+        {
+          "client_id": "208898208003-orjseql2ak5sp8e47uhdlssbi9cqoq5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg4bd0BjS3bgNf9EWun0vfpDqNaYbcFmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208898208003-orjseql2ak5sp8e47uhdlssbi9cqoq5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tracks Base Test</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="anon_greetings">Welcome, Anonymous User</string>
+    <string name="user_greetings">Welcome, %s</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="hint_brdMsg">Type message to broadcast here</string>
+    <string name="empty_msg">No message yet</string>
+    <string name="clear">Clear</string>
+    <string name="loc_perm_reason">Grant location permissions to let us know the region for your broadcast</string>
+    <string name="perm_denied_msg">You can\'t broadcast without granting this permission</string>
+    <string name="channel_name">Test Channel</string>
+    <string name="channel_description">For Tests</string>
+    <string name="dataType_brdcastMsg">BroadcastMessage</string>
+</resources>
